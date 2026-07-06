@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Seungmin Lee"
-  pronouns         : "she/her"  
-  bio              : "Ph.D. student in Design at NC State University working on building energy systems, grid-interactive buildings, and data-driven energy analytics."
+  pronouns         : 
+  bio              : "Ph.D. student<br>M.S. student"
   location         : "Raleigh, NC, USA"
   employer         : "North Carolina State University"
   uri              : # URL
