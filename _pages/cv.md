@@ -45,6 +45,10 @@ Research Areas
 
 [Publications](/publications/)
 ======
+<hr style="border:0; border-top:1px solid #dddddd; width:90px; margin:1.1em 0;">
+
+[Research Projects](/publications/)
+======
 
 <hr style="border:0; border-top:1px solid #dddddd; width:90px; margin:1.1em 0;">
 
