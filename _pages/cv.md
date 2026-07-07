@@ -30,6 +30,8 @@ Advisor: Prof. Euijong Kim
 Konyang University, Nonsan, Korea  
 2009–2013
 
+<hr style="border:0; border-top:1px solid #e6e6e6; margin:1.1em 0;">
+
 Research Areas
 ======
 
@@ -39,8 +41,12 @@ Research Areas
 - Heat pump identification using electricity and weather data (*NLR*)
 - Thermal-aware operation and data center energy management
 
+<hr style="border:0; border-top:1px solid #e6e6e6; margin:1.1em 0;">
+
 [Publications](/publications/)
 ======
+
+<hr style="border:0; border-top:1px solid #e6e6e6; margin:1.1em 0;">
 
 Work Experience
 ======
@@ -94,6 +100,8 @@ Korea Institute of Energy Research (KIER), Daejeon, Korea
 - Analyzed residential heating systems and heat sources, including individual heating, central heating, district heating, oil, gas, and electricity.
 - Evaluated the energy performance of 17 residential buildings with different heating system configurations.
 
+<hr style="border:0; border-top:1px solid #e6e6e6; margin:1.1em 0;">
+
 Honors and Awards
 ======
 
@@ -104,6 +112,8 @@ Honors and Awards
 - UKC Travel Support, Korean-American Scientists and Engineers Association, 2023 and 2024
 - Industry-University Corporate Scholarship, KIER & Inha University, 2013–2014
 
+<hr style="border:0; border-top:1px solid #e6e6e6; margin:1.1em 0;">
+
 Affiliations and Service
 ======
 
@@ -113,6 +123,8 @@ Affiliations and Service
 - KSEA, Student Member, 2023–Present
 - IIBEC, Student Member, 2023–Present
 - Ph.D. Student Association, College of Design, NC State University, Treasurer, 2024–2025
+
+<hr style="border:0; border-top:1px solid #e6e6e6; margin:1.1em 0;">
 
 Technical Skills
 ======
