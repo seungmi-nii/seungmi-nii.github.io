@@ -21,23 +21,21 @@ Research Interests
 - Machine learning and time-series analytics for energy systems
 - Heat pump identification using AMI and weather data
 - Thermal-aware computing and data center energy management
-- Distribution systems and grid-edge energy analytics
-- Building energy performance, retrofitting, and zero-energy building policy
 
 Current Research
 ======
 
-**Power outage forecasting and building-grid resilience**  
+**Building–grid recovery and resilience evaluation**  
+This project studies post-outage recovery as a trajectory of building thermal states, load restoration, and grid constraints. The goal is to better understand system stress and recovery risk beyond conventional outcome-based metrics.
+
+**Power outage forecasting**  
 I study data-driven approaches for forecasting high-impact power outages and understanding restoration and recovery dynamics. This work aims to support more resilient building-grid operation under extreme weather and post-outage recovery conditions.
 
-**Heat pump identification using electricity and weather data**  
+**Heat pump identification using electricity and weather data (NLR)**  
 This research investigates how residential heat pump adoption and heating/cooling system characteristics can be inferred from electricity consumption and outdoor temperature data. The goal is to support electrification planning, targeted utility programs, and grid-aware demand analysis.
 
 **Location-aware thermal modeling in high-performance computing environments**  
 This project examines how server location affects thermal exposure in high-performance computing systems. The work focuses on understanding spatial thermal patterns and their implications for thermal-aware operation and workload placement.
-
-**Building energy performance and low-carbon building systems**  
-My earlier work includes building energy performance assessment, zero-energy building policy analysis, geothermal heat pump system design, and low-carbon building retrofitting.
 
 Education
 ======
@@ -60,16 +58,28 @@ Advisor: Prof. Euijong Kim
 Konyang University, Nonsan, Korea  
 2009–2013
 
-Selected Background
-======
-
-I have research and professional experience in building energy systems, energy performance assessment, geothermal heat pump simulation, low-carbon remodeling, and machine learning applications for building and energy data.
-
-Previously, I worked as a researcher and senior researcher at the Korea Research Institute of Eco-Environmental Architecture, where I evaluated building energy performance across multiple building types and analyzed HVAC and renewable energy system applications. I also worked as a postgraduate researcher and intern at Inha University and the Korea Institute of Energy Research.
 
 Technical Skills
 ======
 
-**Software:** EnergyPlus, OpenDSS, TRNSYS, OpenStudio, Rhino, QGIS, Solar PV Design  
+<div style="margin-bottom: 0.8em;">
+  <strong>Software</strong><br>
+  <span style="display:inline-block; padding:4px 8px; margin:3px; border:1px solid #ccc; border-radius:12px;">EnergyPlus</span>
+  <span style="display:inline-block; padding:4px 8px; margin:3px; border:1px solid #ccc; border-radius:12px;">OpenDSS</span>
+  <span style="display:inline-block; padding:4px 8px; margin:3px; border:1px solid #ccc; border-radius:12px;">TRNSYS</span>
+  <span style="display:inline-block; padding:4px 8px; margin:3px; border:1px solid #ccc; border-radius:12px;">OpenStudio</span>
+  <span style="display:inline-block; padding:4px 8px; margin:3px; border:1px solid #ccc; border-radius:12px;">Rhino</span>
+  <span style="display:inline-block; padding:4px 8px; margin:3px; border:1px solid #ccc; border-radius:12px;">QGIS</span>
+  <span style="display:inline-block; padding:4px 8px; margin:3px; border:1px solid #ccc; border-radius:12px;">Solar PV Design</span>
+</div>
 
-**Programming and data analysis:** Python, PyTorch, machine learning and neural network models, PySpark, SQL, MATLAB
+<div style="margin-bottom: 0.8em;">
+  <strong>Programming and Data Analysis</strong><br>
+  <span style="display:inline-block; padding:4px 8px; margin:3px; border:1px solid #ccc; border-radius:12px;">Python</span>
+  <span style="display:inline-block; padding:4px 8px; margin:3px; border:1px solid #ccc; border-radius:12px;">PyTorch</span>
+  <span style="display:inline-block; padding:4px 8px; margin:3px; border:1px solid #ccc; border-radius:12px;">Machine Learning</span>
+  <span style="display:inline-block; padding:4px 8px; margin:3px; border:1px solid #ccc; border-radius:12px;">Neural Networks</span>
+  <span style="display:inline-block; padding:4px 8px; margin:3px; border:1px solid #ccc; border-radius:12px;">PySpark</span>
+  <span style="display:inline-block; padding:4px 8px; margin:3px; border:1px solid #ccc; border-radius:12px;">SQL</span>
+  <span style="display:inline-block; padding:4px 8px; margin:3px; border:1px solid #ccc; border-radius:12px;">MATLAB</span>
+</div>
