@@ -8,6 +8,8 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
 @import
     "vendor/breakpoint/breakpoint",
 
@@ -61,4 +63,37 @@
 
 .page__footer-follow {
   display: none !important;
+}
+
+/* Custom font styling */
+body,
+input,
+button,
+select,
+textarea {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif !important;
+  font-weight: 400;
+}
+
+.page__content {
+  font-size: 0.95em;
+  line-height: 1.65;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.archive__item-title,
+.author__name,
+.masthead__menu-item {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif !important;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+}
+
+.sidebar,
+.author__bio,
+.author__content,
+.author__urls {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif !important;
 }
