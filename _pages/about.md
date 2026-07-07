@@ -22,17 +22,6 @@ Research Interests
 - Thermal-aware computing and data center energy management
 - Machine learning and time-series analytics for energy systems
 
-<hr style="border:0; border-top:2px solid #dddddd; width:80px; margin:1.1em 0;">
 
-Current Research
-======
-
-**Building–grid recovery and resilience evaluation**  
-
-**Heat pump identification using electricity and weather data (*NLR*)**  
-
-**Location-aware thermal modeling in high-performance computing environments**  
-
-**Power outage forecasting**  
 
 
